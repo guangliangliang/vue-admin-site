@@ -5,9 +5,9 @@ var utils = require('./utils.js')
 var { genNav, getComponentSidebar, deepClone } = utils
 
 module.exports = {
-  title: 'vue-element-admin',
+  title: 'vue-admin',
   description: 'A magical vue admin',
-  base: '/vue-element-admin-site/',
+  base: '/vue-admin-site/',
   head: [
     [
       'link',
@@ -19,7 +19,7 @@ module.exports = {
   ],
   themeConfig: {
     repo: 'PanJiaChen/vue-element-admin',
-    docsRepo: 'PanJiaChen/vue-element-admin-site',
+    docsRepo: 'PanJiaChen/vue-admin-site',
     docsDir: 'docs',
     editLinks: true,
     sidebarDepth: 3,
@@ -51,7 +51,7 @@ module.exports = {
           },
           {
             text: '中文站点(gitee)',
-            link: 'https://panjiachen.gitee.io/vue-element-admin-site/zh/'
+            link: 'https://panjiachen.gitee.io/vue-admin-site/zh/'
           }
         ],
         sidebar: {

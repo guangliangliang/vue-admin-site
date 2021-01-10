@@ -1,3 +1,12 @@
+<!--
+ * @Description:
+ * @Version: 1.0
+ * @Autor: unicom
+ * @Date: 2021-01-10 09:29:41
+ * @LastEditors: unicom
+ * @LastEditTime: 2021-01-10 09:39:11
+-->
+
 # vue-element-admin-site
 
 The documentation source of [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
@@ -19,6 +28,6 @@ npm install
 npm run dev
 ```
 
-open http://localhost:8080/vue-element-admin-site/
+open http://localhost:8080/vue-admin-site/
 
 > Generator by [vuepress](https://github.com/vuejs/vuepress)
